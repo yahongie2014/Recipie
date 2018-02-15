@@ -1,4 +1,4 @@
-# Recipe Vue JS
+# CURD laravel-and-vue
 
 ### Frameworks and Libraries:
 
@@ -14,18 +14,11 @@
 - Nested forms
 - CRUD
 
-
-![alt tag](https://github.com/codekerala/laravel-and-vue.js-spa-Recipe-Box/raw/master/s1.png)
-
 ### Installation
-`git clone https://github.com/codekerala/laravel-and-vue.js-spa-Recipe-Box.git`
+`git clone https://github.com/yahongie2014/Recipie.git
 
 `laravel-and-vue.js-spa-Recipe-Box`
 
 `composer install`
 
 `npm install`
-
-### On Youtube
-
-Development: https://youtu.be/LZcwmzTdcLE
