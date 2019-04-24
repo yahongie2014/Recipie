@@ -1,5 +1,5 @@
 # CURD laravel-and-vue
-
+ - Demo : `https://recipe-vuejs.herokuapp.com/`
 ### Frameworks and Libraries:
 
 - Laravel 5.4
